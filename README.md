@@ -54,13 +54,14 @@ python -m venv venv
 
 ### 3️⃣ Activate the Virtual Environment
 Windows:
-
-venv\Scripts\activate
+  ```bash
+  venv\Scripts\activate
 
 macOS/Linux:
-
-source venv/bin/activate
+  ```bash
+  source venv/bin/activate
 
 ### 4️⃣ Install Required Packages
-pip install numpy pandas scikit-learn jupyter
+  ```bash
+    pip install numpy pandas scikit-learn jupyter
 
