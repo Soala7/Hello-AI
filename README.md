@@ -34,6 +34,17 @@
 </p>
 
 ---
+<h3 align="center">🌟 Project Ideas</h3>
+🤖 Chatbot with Python & NLTK
+
+📸 Image classifier with TensorFlow
+
+🎵 Music genre prediction with ML
+
+🩺 AI model for disease prediction
+
+<p align="center">💡 Start learning, start building, and unleash the power of AI!</p>
+---
 
 <h3 align="center">🚀 Getting Started</h3>
 
@@ -51,13 +62,3 @@ pip install -r requirements.txt
 jupyter notebook
 ---
 
-<h3 align="center">🌟 Project Ideas</h3>
-🤖 Chatbot with Python & NLTK
-
-📸 Image classifier with TensorFlow
-
-🎵 Music genre prediction with ML
-
-🩺 AI model for disease prediction
-
-<p align="center">💡 Start learning, start building, and unleash the power of AI!</p>
