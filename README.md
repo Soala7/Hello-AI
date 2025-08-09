@@ -50,15 +50,4 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/Hello-AI.git
-
-# Navigate into the folder
-cd Hello-AI
-
-# Install dependencies (example)
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
----
-
+git clone https://github.com/Soala7/Hello-AI.git
